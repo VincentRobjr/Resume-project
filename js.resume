@@ -1,0 +1,13 @@
+// Define Variable
+let myName = "Vincent"
+let title = "Student":
+let experience = "Volunteer"
+let education = "Oral Roberts University";
+//let skills = ['basketball, "weightlifting"]
+
+// Connect Variables to the HTML (ligaments)
+document.getElementaryById("my-name").textContent = myName;
+document.getElementaryById("my-email").textContent = myEmail;
+document.getElementaryById("title").textContent = title;
+document.getElementaryById("experience").textContent = experience;
+document.getElementaryById("education").textContent = education;
